@@ -6,6 +6,6 @@ public class FinanceData
 
     public static void gitTest()
     {
-        
+
     }
 }
