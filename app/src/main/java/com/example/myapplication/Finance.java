@@ -25,6 +25,7 @@ public class Finance
     private String savePeriod; //in finance db
     private int savingAmount; //in finance db
     private int savingGoal; //in finance db
+    private int firstLogin;
 
     private int budget; // calculated on initialising
 
